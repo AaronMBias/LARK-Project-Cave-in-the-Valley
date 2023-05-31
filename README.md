@@ -1,9 +1,9 @@
 # The Cave in the Valley
 
-This was made as the final project in the class Intro to Unix. It was called the LARK project, and our task was to create an educational game to teach new users bash commands. We were free
+This was made as the final project in the class Intro to Unix in my sophomore year (2020) at Florida Polytechnic University. It was called the LARK project, and our task was to create an educational game to teach new users bash commands. We were free
 to come up with any kind of game, as long as it had at least ~20 minutes of gameplay and contained a given number of bash commands and their explanations. 
 
-My favorite games are the old 90's roguelikes "Castle of the Winds" I and II, so I tried to create a game in the spirit of those, though mine is exclusively text-based.
+My favorite games are the old 90's roguelikes "Castle of the Winds" I and II, so I tried to create a game in the spirit of those, though mine is exclusively text-based and without procedural generation.
 
 ## Launch
 The game can run on a Unix/Linux system. Unzip the tarball and then navigate to the 'cave_game' directory.
